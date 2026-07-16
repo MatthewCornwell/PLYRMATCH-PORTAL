@@ -17,24 +17,40 @@ PLYRMatch gives aspiring junior football players a place to build a professional
 - Backend / Database: Supabase (PostgreSQL + RLS + Auth)
 - Deployment: Cloudflare Pages
 
-### Academies
-![Academy Network](academies.png)
+Below are pictures, with PII such as faces and names blocked out:
 
-### Admin Dashboard
-![Admin Dashboard](admindashboard.png)
-
-### Downloadable CV
-![Downloadable CV](downloadablecv.png)
-
-### Player Profile
-![Player Profile](profile.png)
-
-### Summer Camp Consents
-![Summer Camp Consents](summercampconsents.png)
-
-### Summer Camp Squad Profiles
-![Summer Camp Lineup](summercamplineup.png)
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>Academy Network</strong><br>
+      <img src="academies.png" alt="Academy Network" width="100%" />
+    </td>
+    <td align="center">
+      <strong>Admin Dashboard</strong><br>
+      <img src="admindashboard.png" alt="Admin Dashboard" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Downloadable CV</strong><br>
+      <img src="downloadablecv.png" alt="Downloadable CV" width="100%" />
+    </td>
+    <td align="center">
+      <strong>Player Profile</strong><br>
+      <img src="profile.png" alt="Player Profile" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Summer Camp Consents</strong><br>
+      <img src="summercampconsents.png" alt="Summer Camp Consents" width="100%" />
+    </td>
+    <td align="center">
+      <strong>Summer Camp Squad Profiles</strong><br>
+      <img src="summercamplineup.png" alt="Summer Camp Squad Profiles" width="100%" />
+    </td>
+  </tr>
+</table>
 
 Note on code: 
 The source code for this project belogns to PLYRMatch. This repository functions as a portfolio showcase, with screenshots and a description of the work. The live platform is accesible at the link above
