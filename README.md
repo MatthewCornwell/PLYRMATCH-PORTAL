@@ -9,7 +9,7 @@ PLYRMatch gives aspiring junior football players a place to build a professional
 - Coach facing view for the NXTLVL COMBINE camp, with online sign ups, waivers both before and on the day, and GDPR compliant data handling
 - Downloadable and shareable player CVs
 - Real time updates and ongoing maintenance to the site
-- 70 active player profiles, with multiple players being placed at academies
+- 85 and counting active player profiles, with multiple players being placed at academies
 
 
 **Stack**
