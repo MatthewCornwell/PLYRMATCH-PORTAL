@@ -17,5 +17,24 @@ PLYRMatch gives aspiring junior football players a place to build a professional
 - Backend / Database: Supabase (PostgreSQL + RLS + Auth)
 - Deployment: Cloudflare Pages
 
+### Academies
+![Academy Network](academies.png)
+
+### Admin Dashboard
+![Admin Dashboard](admindashboard.png)
+
+### Downloadable CV
+![Downloadable CV](downloadablecv.png)
+
+### Player Profile
+![Player Profile](profile.png)
+
+### Summer Camp Consents
+![Summer Camp Consents](summercampconsents.png)
+
+### Summer Camp Squad Profiles
+![Summer Camp Lineup](summercamplineup.png)
+
+
 Note on code: 
 The source code for this project belogns to PLYRMatch. This repository functions as a portfolio showcase, with screenshots and a description of the work. The live platform is accesible at the link above
